@@ -2,7 +2,7 @@ theme: minima
 title: Cinema Persona
 author: clariceism
 description: > # this means to ignore newlines until "baseurl:"
-  Creating 100 UX User Persona based on 100 characters on popular films.
+  Creating 100 UX User Personas based on characters in mainstream movies.
 
 # social links
 github_username:  clariceism # DO NOT include the @ character, or else the build will fail!
